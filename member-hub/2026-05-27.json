@@ -1,0 +1,11 @@
+{
+  "app": "member-hub",
+  "date": "2026-05-27",
+  "covers_through_id": 99,
+  "previous_anchor_id": 9,
+  "full_hash_hex": "27e348dd4fa2f06a479e9f4b97ec1a981e66d16b446c5e97d82abba1f855a795",
+  "signature_b64": "ML3zMB29moWCJWvmZTFCmcY0DBskL7t+G3wE3RIBpK5WLi7TXC5SSwFUvop40qixekkAm9/wdLPRbpKomnNwCg==",
+  "transit_key_version": 1,
+  "transit_pubkey_b64": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w=",
+  "schema_version": 1
+}

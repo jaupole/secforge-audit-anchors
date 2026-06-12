@@ -1,0 +1,23 @@
+{
+  "anchored_at": "2026-06-12T23:41:01Z",
+  "date": "2026-06-09",
+  "entry_count": 192272,
+  "full_hash": "be88389298ae08679ece323226183ac6f8fe71e780020c951ec8c9c95a0c8914",
+  "key_version": "1",
+  "manifest_sha256": "0b4f18e8531083abe4be4789efdcea2b9e833b6527fb21417b9be0b6ae83d4c5",
+  "namespace": "velero",
+  "prev_file": "platform/loki/velero/2026-06-08.json",
+  "prev_full_hash": "d77895c6c5cb24af7131d2262640c24dced0845b8d963e179da424cb5ff696e1",
+  "pubkey": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w=",
+  "schema": "secforge.loki-audit-anchor/v1",
+  "settle_seconds": 172800,
+  "sign_alg": "ed25519",
+  "signature": "vault:v1:iNy12zAOGOrucqxGJqLEj5vCZOWtZIOBD0HLEMc+mw5s4t8xRAsnKLr45TX+uzXuTBUyEDXFbsv8ifjczTHYDA==",
+  "source": "loki-query",
+  "total_bytes": 51197149,
+  "window_end": "2026-06-10T00:00:00Z",
+  "window_end_ns": 1781049600000000000,
+  "window_sha256": "3a8d9483fb305d58aced5c57dee7468663e0822c0d6964876d0b284173328847",
+  "window_start": "2026-06-09T00:00:00Z",
+  "window_start_ns": 1780963200000000000
+}

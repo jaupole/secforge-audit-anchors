@@ -1,7 +1,7 @@
 {
-  "full_hash": "e07eaf4f03d00d46d18641df05a21f4e1a22ebef313229d6d1c0ea941a90d7ba",
-  "head_file": "platform/loki/keycloak/2026-06-22.json",
-  "last_date": "2026-06-22",
+  "full_hash": "1c19f899753e2eede9849d975fd0a7fdc41c2d03efc7e89c234450d939d5f8dd",
+  "head_file": "platform/loki/keycloak/2026-06-23.json",
+  "last_date": "2026-06-23",
   "namespace": "keycloak",
-  "updated_at": "2026-06-25T23:41:01Z"
+  "updated_at": "2026-06-26T23:41:01Z"
 }

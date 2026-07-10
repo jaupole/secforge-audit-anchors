@@ -1,0 +1,23 @@
+{
+  "anchored_at": "2026-07-10T23:41:02Z",
+  "date": "2026-07-07",
+  "entry_count": 4393,
+  "full_hash": "11f5d9e340f4df211253413dbb3d7d4ea0444f4c9e74fed9e95343f338e07a4a",
+  "key_version": "1",
+  "manifest_sha256": "7a60dd07288c39307803dd756791204aa6f38847ca78e813db1ac299feef5b4b",
+  "namespace": "keycloak",
+  "prev_file": "platform/loki/keycloak/2026-07-06.json",
+  "prev_full_hash": "f69a3b259ed757dce4a9f8d14e84aa00f95cb47486f0e2563feae556bdf8399c",
+  "pubkey": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w=",
+  "schema": "secforge.loki-audit-anchor/v1",
+  "settle_seconds": 172800,
+  "sign_alg": "ed25519",
+  "signature": "vault:v1:qzUGjuBgpREnKTNdiGfeHPiAXn9aTLOdQPi1+Bxu4/tPgvRunotcUSQbpCzk1BOoy1jeP0/k+H52QeloHKJJDA==",
+  "source": "loki-query",
+  "total_bytes": 3327169,
+  "window_end": "2026-07-08T00:00:00Z",
+  "window_end_ns": 1783468800000000000,
+  "window_sha256": "f76e265d3e57c8f79a861afce77aa9409c20118c68b65e1fcfa8d9a75800d7de",
+  "window_start": "2026-07-07T00:00:00Z",
+  "window_start_ns": 1783382400000000000
+}

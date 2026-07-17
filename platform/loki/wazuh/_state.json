@@ -1,7 +1,7 @@
 {
-  "full_hash": "8432fd967d311cfb638a6fcdad59fe73d2d7c8fa73fa180b0ab766354ed3da03",
-  "head_file": "platform/loki/wazuh/2026-07-13.json",
-  "last_date": "2026-07-13",
+  "full_hash": "e2ccbde8efdca3806de42541cbf961589906d00fd387136ae147f2f6a8a29835",
+  "head_file": "platform/loki/wazuh/2026-07-14.json",
+  "last_date": "2026-07-14",
   "namespace": "wazuh",
-  "updated_at": "2026-07-16T23:41:01Z"
+  "updated_at": "2026-07-17T23:41:02Z"
 }

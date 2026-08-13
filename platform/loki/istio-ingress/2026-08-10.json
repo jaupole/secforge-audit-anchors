@@ -1,0 +1,23 @@
+{
+  "anchored_at": "2026-08-13T23:41:02Z",
+  "date": "2026-08-10",
+  "entry_count": 1727,
+  "full_hash": "254746b9462cbca534cfc43edae64daa72f56dba1aacf11e37495a638311e217",
+  "key_version": "1",
+  "manifest_sha256": "fd9138ab842c1088054302bd09795154bd1da87b65df358b912dfb4eceeda925",
+  "namespace": "istio-ingress",
+  "prev_file": "platform/loki/istio-ingress/2026-08-09.json",
+  "prev_full_hash": "a3a94086b088a73d78f3ea2decd40bf8cb26ddabe55e918bd5685560bf43b2a2",
+  "pubkey": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w=",
+  "schema": "secforge.loki-audit-anchor/v1",
+  "settle_seconds": 172800,
+  "sign_alg": "ed25519",
+  "signature": "vault:v1:kyIfyRfd34gEWXlrg2Sv1fXyaBGDkji9RmBK2J0rXKiW7i08m6aNnvE+bBEeOCUg48OjK2L0Au2R1PhHPOxrBQ==",
+  "source": "loki-query",
+  "total_bytes": 1180663,
+  "window_end": "2026-08-11T00:00:00Z",
+  "window_end_ns": 1786406400000000000,
+  "window_sha256": "6e0abdae68a227503f928fdc7ee41c536dbdf86356e7b40eb95e24fe8002061e",
+  "window_start": "2026-08-10T00:00:00Z",
+  "window_start_ns": 1786320000000000000
+}

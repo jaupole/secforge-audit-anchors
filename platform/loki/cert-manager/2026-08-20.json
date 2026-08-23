@@ -1,0 +1,23 @@
+{
+  "anchored_at": "2026-08-23T23:41:02Z",
+  "date": "2026-08-20",
+  "entry_count": 161,
+  "full_hash": "1c32e4aa8d7a7afe2d6924386e7effabbfce1f85085fbc9c21b883b9f68c1254",
+  "key_version": "1",
+  "manifest_sha256": "d52ba0155a3c436ca60a427077ace261b4ead0eee10b7f919738e4b2fc68ba75",
+  "namespace": "cert-manager",
+  "prev_file": "platform/loki/cert-manager/2026-08-19.json",
+  "prev_full_hash": "84ea830c261904fa3579970c5268da5ae42dec9c16b8b0e3064819b35531f135",
+  "pubkey": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w=",
+  "schema": "secforge.loki-audit-anchor/v1",
+  "settle_seconds": 172800,
+  "sign_alg": "ed25519",
+  "signature": "vault:v1:zbHzOOOQ0t8s2Tou9x03mBT2rroP2IqtTi1t5IMqJifsR7O90/ZtRngbL7/1ZTHag7GZp+5Kiddr30cbEhS2DA==",
+  "source": "loki-query",
+  "total_bytes": 48009,
+  "window_end": "2026-08-21T00:00:00Z",
+  "window_end_ns": 1787270400000000000,
+  "window_sha256": "ebbc62f01f9cef0d91ba54a01544417a103ab3af547599024dd8cfacb8bf08c8",
+  "window_start": "2026-08-20T00:00:00Z",
+  "window_start_ns": 1787184000000000000
+}

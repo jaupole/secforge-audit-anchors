@@ -1,0 +1,23 @@
+{
+  "anchored_at": "2026-09-13T23:41:02Z",
+  "date": "2026-09-10",
+  "entry_count": 1110,
+  "full_hash": "abf75c62f00d1502a3af9c4e2ab56f6b348700b35697c46646bc0b06d3f3983b",
+  "key_version": "1",
+  "manifest_sha256": "52ea0d9979be1247242f2db91e2d7b3ce4649fe625ac67f3ef758872753659b6",
+  "namespace": "vault-secrets-operator",
+  "prev_file": "platform/loki/vault-secrets-operator/2026-09-09.json",
+  "prev_full_hash": "450ede68faec9bf8d06981e227f8b306198a58cec1d86e64dfcb7102d590a605",
+  "pubkey": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w=",
+  "schema": "secforge.loki-audit-anchor/v1",
+  "settle_seconds": 172800,
+  "sign_alg": "ed25519",
+  "signature": "vault:v1:12pvO0bOdBIcsKNIc+pb9IO59hVaEjb9TBLQqqOVnhjwRfyKoXDfLyQgQrjxmcJ1kaGCFzCn7PVnpzvSHwfACA==",
+  "source": "loki-query",
+  "total_bytes": 287155,
+  "window_end": "2026-09-11T00:00:00Z",
+  "window_end_ns": 1789084800000000000,
+  "window_sha256": "1699b7f25f322ada400d702be87a15ddc42f8fb8b26a7ddcebd4dfee4a92d39c",
+  "window_start": "2026-09-10T00:00:00Z",
+  "window_start_ns": 1788998400000000000
+}

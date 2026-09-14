@@ -1,7 +1,7 @@
 {
-  "full_hash": "4a66368077138e2ecc53057c3fcb826285db8c6cedccba8fd41ebdd488d23085",
-  "head_file": "platform/openbao/openbao-1/2026-09-13.json",
+  "full_hash": "d092a49d8e37ac50eeca7deab920dae1564e3dc52e66076bdeebf02872d2aa43",
+  "head_file": "platform/openbao/openbao-1/2026-09-14.json",
   "node": "openbao-1",
-  "offset": 208157285,
-  "updated_at": "2026-09-13T22:23:05Z"
+  "offset": 210437022,
+  "updated_at": "2026-09-14T22:23:06Z"
 }

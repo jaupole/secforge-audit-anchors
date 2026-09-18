@@ -1,7 +1,7 @@
 {
-  "full_hash": "686faec5a831ad88309f49a63edea5d9406fdee1733dc5ce895b0b2e5fefe699",
-  "head_file": "platform/loki/spicedb/2026-09-14.json",
-  "last_date": "2026-09-14",
+  "full_hash": "c925eaa4a6c080fd0d916e7eec2f136eb2ad4757738bf86f18b08f9272cd5148",
+  "head_file": "platform/loki/spicedb/2026-09-15.json",
+  "last_date": "2026-09-15",
   "namespace": "spicedb",
-  "updated_at": "2026-09-17T23:41:02Z"
+  "updated_at": "2026-09-18T23:41:01Z"
 }

@@ -1,0 +1,23 @@
+{
+  "anchored_at": "2026-09-18T23:41:01Z",
+  "date": "2026-09-15",
+  "entry_count": 3361,
+  "full_hash": "c925eaa4a6c080fd0d916e7eec2f136eb2ad4757738bf86f18b08f9272cd5148",
+  "key_version": "1",
+  "manifest_sha256": "3a6102b5e1838b84c215a484338c6076162f2a3b245422763b29a51c8f4b05ec",
+  "namespace": "spicedb",
+  "prev_file": "platform/loki/spicedb/2026-09-14.json",
+  "prev_full_hash": "686faec5a831ad88309f49a63edea5d9406fdee1733dc5ce895b0b2e5fefe699",
+  "pubkey": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w=",
+  "schema": "secforge.loki-audit-anchor/v1",
+  "settle_seconds": 172800,
+  "sign_alg": "ed25519",
+  "signature": "vault:v1:yrQzz757vQEZoEvK7KARjckYGcu0niyafE8ARprlRxP1nQFhZAIkbxb5xWtztRCVFzLGVXq/NAvPtu9wL+RXCA==",
+  "source": "loki-query",
+  "total_bytes": 994318,
+  "window_end": "2026-09-16T00:00:00Z",
+  "window_end_ns": 1789516800000000000,
+  "window_sha256": "974b751855288419a6726b3315c29fd6d5b3c5f761113ad0978315b87a6ab13b",
+  "window_start": "2026-09-15T00:00:00Z",
+  "window_start_ns": 1789430400000000000
+}

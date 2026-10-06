@@ -1,0 +1,17 @@
+{
+  "app": "control",
+  "date": "2026-10-06",
+  "schema_version": 1,
+  "fleet": {
+    "covers_through_id": "117",
+    "heads_not_before": "2023-12-05T20:54:39.389603Z",
+    "root_hash_hex": "b66af42c16890c3580f6cc55ba797b8def8287c9b1a8535dec277e6e8d385eb1"
+  },
+  "control_audit_log": {
+    "covers_through": "2026-10-06T20:35:01.095845Z",
+    "row_hash_hex": "29f1e1908d019809d2524cc48b7aed0ab00c0748781d1cb1024b70f6284933c8"
+  },
+  "signature_b64": "UhSSIqJOU2pLShvMhWJDzuYzD1dtY9T2+cckDE76lRuckSy4FH2z5eRpZ91psVFbFepEbA+gEIi2MmznZtL/Ag==",
+  "transit_key_version": 1,
+  "transit_pubkey_b64": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w="
+}

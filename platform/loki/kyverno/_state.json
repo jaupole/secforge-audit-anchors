@@ -1,7 +1,7 @@
 {
-  "full_hash": "55bff65f0efa5714db44c1371f292921ebf8c5ec3066ad213d9376f223dcc802",
-  "head_file": "platform/loki/kyverno/2026-10-10.json",
-  "last_date": "2026-10-10",
+  "full_hash": "e83c1bebdf03df909225e6db6f8e5711e68c9b18270b74e8d6b66bb431e5b118",
+  "head_file": "platform/loki/kyverno/2026-10-11.json",
+  "last_date": "2026-10-11",
   "namespace": "kyverno",
-  "updated_at": "2026-10-13T23:41:01Z"
+  "updated_at": "2026-10-14T23:41:01Z"
 }

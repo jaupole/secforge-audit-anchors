@@ -1,7 +1,7 @@
 {
-  "full_hash": "bf48228fdd48ce31aaf7456238a0e57893b4d875f651ab6f3fc8623f34eff88c",
-  "head_file": "platform/loki/vault-secrets-operator/2026-10-15.json",
-  "last_date": "2026-10-15",
+  "full_hash": "78f01480321d2aa7b7b10b67748bbcf2a34a39609c5ead5593d97a6063a7d7a6",
+  "head_file": "platform/loki/vault-secrets-operator/2026-10-16.json",
+  "last_date": "2026-10-16",
   "namespace": "vault-secrets-operator",
-  "updated_at": "2026-10-18T23:41:03Z"
+  "updated_at": "2026-10-19T23:41:01Z"
 }

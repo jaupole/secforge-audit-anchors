@@ -1,7 +1,7 @@
 {
-  "full_hash": "e877b80d165583675bea8e25f891b0a87cc81842ed94979013abb59fd64d0f4f",
-  "head_file": "platform/loki/istio-ingress/2026-10-16.json",
-  "last_date": "2026-10-16",
+  "full_hash": "b27422f5345c3b319ee10136fae4a4cb081293d2756e1669a2a66eb06baa24e5",
+  "head_file": "platform/loki/istio-ingress/2026-10-17.json",
+  "last_date": "2026-10-17",
   "namespace": "istio-ingress",
-  "updated_at": "2026-10-19T23:41:01Z"
+  "updated_at": "2026-10-20T23:41:03Z"
 }

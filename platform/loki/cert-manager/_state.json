@@ -1,7 +1,7 @@
 {
-  "full_hash": "e27f17b7e0c0f32643e612c260c780d76fa0bcd41ebfa68e082db5fa47b729fe",
-  "head_file": "platform/loki/cert-manager/2026-10-18.json",
-  "last_date": "2026-10-18",
+  "full_hash": "ddecab95f8a8391dab25b04d4d6a759542eaba23f8da6f9a498b90be11f66384",
+  "head_file": "platform/loki/cert-manager/2026-10-19.json",
+  "last_date": "2026-10-19",
   "namespace": "cert-manager",
-  "updated_at": "2026-10-21T23:41:03Z"
+  "updated_at": "2026-10-22T23:41:01Z"
 }

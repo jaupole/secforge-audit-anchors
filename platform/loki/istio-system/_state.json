@@ -1,7 +1,7 @@
 {
-  "full_hash": "b134b474867f0bdcc654f73f5925c4fed4284d026f74ca718a7765fb0a0aba3a",
-  "head_file": "platform/loki/istio-system/2026-10-21.json",
-  "last_date": "2026-10-21",
+  "full_hash": "a9e3eaee38dea71a84c4ed09ce48979e57e1d625819bef09a238bec794b82206",
+  "head_file": "platform/loki/istio-system/2026-10-22.json",
+  "last_date": "2026-10-22",
   "namespace": "istio-system",
-  "updated_at": "2026-10-24T23:41:02Z"
+  "updated_at": "2026-10-26T00:41:01Z"
 }

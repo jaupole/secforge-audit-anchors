@@ -1,7 +1,7 @@
 {
-  "full_hash": "131d550a63079cab3eec96ebd59e425c9adebe6b621db8471ce07c826e1fd5b7",
-  "head_file": "platform/loki/velero/2026-10-30.json",
-  "last_date": "2026-10-30",
+  "full_hash": "abb04700e41a437d7a1b75e7299e38b9132d6d18dda2d171b867741d7255aaa9",
+  "head_file": "platform/loki/velero/2026-10-31.json",
+  "last_date": "2026-10-31",
   "namespace": "velero",
-  "updated_at": "2026-11-02T00:41:02Z"
+  "updated_at": "2026-11-03T00:41:01Z"
 }

@@ -1,0 +1,23 @@
+{
+  "anchored_at": "2026-11-04T00:41:03Z",
+  "date": "2026-11-01",
+  "entry_count": 4823,
+  "full_hash": "e9b44c606390743b61e8bc179f3b97fb196d3577e1bac5243cbd0685a41858e4",
+  "key_version": "1",
+  "manifest_sha256": "4fb537013ae63055f69c56b8565b61d8b4a94b8f0a60a540dfcc0403d430ed30",
+  "namespace": "kyverno",
+  "prev_file": "platform/loki/kyverno/2026-10-31.json",
+  "prev_full_hash": "3177bf9988d477b2a5ad6050fc7a98d915b9ebce2184996f851a8d37f6dfac4e",
+  "pubkey": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w=",
+  "schema": "secforge.loki-audit-anchor/v1",
+  "settle_seconds": 172800,
+  "sign_alg": "ed25519",
+  "signature": "vault:v1:3Z18rxhjejk1rXoMcnuyIKfsGOm3HlE9/XZvD/v3pT818EU5VkUGyCwXfyAfWzGimjahCmg4beqwaW39X5zpCw==",
+  "source": "loki-query",
+  "total_bytes": 1823597,
+  "window_end": "2026-11-02T00:00:00Z",
+  "window_end_ns": 1793577600000000000,
+  "window_sha256": "67a6521527f238e65c1212fed2eb58368f6ba2a2107baa4a82ec8a84c3c6b1c5",
+  "window_start": "2026-11-01T00:00:00Z",
+  "window_start_ns": 1793491200000000000
+}

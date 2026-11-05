@@ -1,7 +1,7 @@
 {
-  "full_hash": "013211f84a66fb888e80dd0012d6a162d8510ae4cf3f9fce3ce2995cca1eb6d9",
-  "head_file": "platform/loki/spire/2026-11-01.json",
-  "last_date": "2026-11-01",
+  "full_hash": "a7d5b48c1ce3c25df0197c7b4f8bb776a2302e76def7bf524ac230d7ded5587f",
+  "head_file": "platform/loki/spire/2026-11-02.json",
+  "last_date": "2026-11-02",
   "namespace": "spire",
-  "updated_at": "2026-11-04T00:41:03Z"
+  "updated_at": "2026-11-05T00:41:01Z"
 }

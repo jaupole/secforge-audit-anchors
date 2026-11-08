@@ -1,0 +1,23 @@
+{
+  "anchored_at": "2026-11-08T00:41:03Z",
+  "date": "2026-11-05",
+  "entry_count": 71847,
+  "full_hash": "bd6cbd3408b05746a4a38c0fdce7a4ca441f85e2eeb6836e143df33aafc5afd3",
+  "key_version": "1",
+  "manifest_sha256": "72fb407cb5ce7e815ef76a017623e62eb3ac2a8bcf1736c9342220c176ad85db",
+  "namespace": "wazuh",
+  "prev_file": "platform/loki/wazuh/2026-11-04.json",
+  "prev_full_hash": "6b2b96365f6125b0cd711ad6e861f041eb53fa271e4210cda5a643709e55ae87",
+  "pubkey": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w=",
+  "schema": "secforge.loki-audit-anchor/v1",
+  "settle_seconds": 172800,
+  "sign_alg": "ed25519",
+  "signature": "vault:v1:jJ26hX9tdDaTYoyvFeFtnIJjdYbcM10XepGxsGfGuPRDjBBby+y2Kgr6OEvs5LJlsKvRUBUGfLcYSAualbQgAg==",
+  "source": "loki-query",
+  "total_bytes": 10876304,
+  "window_end": "2026-11-06T00:00:00Z",
+  "window_end_ns": 1793923200000000000,
+  "window_sha256": "4cae94dd80c5a5dbd7a54bcb42f4943429c590a3bdc993934630450b956ea1ad",
+  "window_start": "2026-11-05T00:00:00Z",
+  "window_start_ns": 1793836800000000000
+}

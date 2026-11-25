@@ -1,0 +1,18 @@
+{
+  "anchored_at": "2026-11-25T23:23:09Z",
+  "date": "2026-11-25",
+  "full_hash": "a7a4dcf35216959d073fe023b3c2ee49f851c324a15ed71bb5951deb4a97bc42",
+  "key_version": "1",
+  "line_count": 11838,
+  "node": "openbao-2",
+  "offset_from": 3198081713,
+  "offset_to": 3218525153,
+  "prev_file": "platform/openbao/openbao-2/2026-11-24.json",
+  "prev_full_hash": "d68882261941d4948c4090d9dac13f735af3b36457b8c095c7d5ec24eeadee09",
+  "pubkey": "BIMi2T/5x5IoGpLyQqx96+3wGz5AbjySTtm6QZu3o9w=",
+  "schema": "secforge.platform-audit-anchor/v1",
+  "segment_sha256": "6f737dab4c9f4413e746efefbe73fc7f989f6d572d6e7f5ac531864b4f148ca1",
+  "sign_alg": "ed25519",
+  "signature": "vault:v1:04dbj0kqS6fyXbi3ToeSKmh3Fy9eQj9TcM0vccE6i9L/HBPmuA84YuTbQY2JEIGxb3EwUS0k8Al8KrVuX2nnCw==",
+  "source": "openbao-file-audit"
+}
